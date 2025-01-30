@@ -1,0 +1,101 @@
+Number,Author name,Book Title,Average Rating,Ratings,Score,Votes,Book Link,Publication Date,Number of Pages,Rating Category
+1,Suzanne Collins,"The Hunger Games (The Hunger Games, #1)",4.34,9232450.0,4024922,40937,https://www.goodreads.com/book/show/2767052-the-hunger-games,"September 14, 2008",374,High
+2,J.K. Rowling,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",4.5,3585721.0,3197636,32665,https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix,"June 21, 2003",912,High
+3,Jane Austen,Pride and Prejudice,4.29,4481431.0,2835937,29072,https://www.goodreads.com/book/show/1885.Pride_and_Prejudice,"January 28, 1813",279,High
+4,Harper Lee,To Kill a Mockingbird,4.26,6510108.0,2504431,25577,https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird,"July 11, 1960",323,High
+5,Markus Zusak,The Book Thief,4.39,2723259.0,1886139,19382,https://www.goodreads.com/book/show/19063.The_Book_Thief,"September 1, 2005",592,High
+6,Stephenie Meyer,"Twilight (The Twilight Saga, #1)",3.66,6948763.0,1722125,17552,https://www.goodreads.com/book/show/41865.Twilight,"October 5, 2005",498,Medium
+7,George Orwell,Animal Farm,4.0,4174481.0,1618034,16755,https://www.goodreads.com/book/show/170448.Animal_Farm,"August 17, 1945",141,Medium
+8,J.R.R. Tolkien,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,4.61,138930.0,1570441,16272,https://www.goodreads.com/book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set,"January 1, 1954",1728,High
+9,C.S. Lewis,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",4.28,681417.0,1482819,15452,https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia,"January 1, 1956",767,High
+10,John Green,The Fault in Our Stars,4.13,5440870.0,1371067,14191,https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars,"January 10, 2012",313,High
+11,Oscar Wilde,The Picture of Dorian Gray,4.13,1693073.0,1294912,13514,https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray,"June 1, 1890",272,High
+12,Shel Silverstein,The Giving Tree,4.38,1182522.0,1204855,12472,https://www.goodreads.com/book/show/370493.The_Giving_Tree,"January 1, 1964",64,High
+13,Emily Brontë,Wuthering Heights,3.9,1908489.0,1200216,12523,https://www.goodreads.com/book/show/6185.Wuthering_Heights,"December 1, 1847",464,Medium
+14,Margaret Mitchell,Gone with the Wind,4.31,1243813.0,1178656,12153,https://www.goodreads.com/book/show/18405.Gone_with_the_Wind,"June 30, 1936",1037,High
+15,Rick Riordan,"The Lightning Thief (Percy Jackson and the Olympians, #1)",4.31,3234972.0,1155827,12092,https://www.goodreads.com/book/show/28187.The_Lightning_Thief,"July 28, 2005",377,High
+16,Stephen Chbosky,The Perks of Being a Wallflower,4.23,1896351.0,1133754,11803,https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower,"February 1, 1999",213,High
+17,Charlotte Brontë,Jane Eyre,4.15,2201660.0,1095987,11518,https://www.goodreads.com/book/show/10210.Jane_Eyre,"October 16, 1847",532,High
+18,Antoine de Saint-Exupéry,The Little Prince,4.33,2273921.0,1092796,11523,https://www.goodreads.com/book/show/157993.The_Little_Prince,"January 1, 1943",96,High
+19,F. Scott Fitzgerald,The Great Gatsby,3.93,5554978.0,1062298,11312,https://www.goodreads.com/book/show/4671.The_Great_Gatsby,"April 10, 1925",180,Medium
+20,Dan    Brown,"The da Vinci Code (Robert Langdon, #2)",3.92,2433649.0,1001858,10526,https://www.goodreads.com/book/show/968.The_da_Vinci_Code,"January 1, 2003",489,Medium
+21,Fyodor Dostoevsky,Crime and Punishment,4.28,977593.0,1000366,10412,https://www.goodreads.com/book/show/7144.Crime_and_Punishment,"January 1, 1866",671,High
+22,Lewis Carroll,Alice’s Adventures in Wonderland / Through the Looking-Glass,4.06,585931.0,980629,10336,https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass,"December 27, 1871",239,High
+23,Veronica Roth,"Divergent (Divergent, #1)",4.14,4187038.0,971171,10182,https://www.goodreads.com/book/show/13335037-divergent,"April 25, 2011",487,High
+24,Arthur Golden,Memoirs of a Geisha,4.16,2055263.0,950471,9901,https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha,"September 27, 1997",503,High
+25,Victor Hugo,Les Misérables,4.21,822147.0,940791,9877,https://www.goodreads.com/book/show/24280.Les_Mis_rables,"March 31, 1862",1463,High
+26,Paulo Coelho,The Alchemist,3.92,3299697.0,930861,9722,https://www.goodreads.com/book/show/865.The_Alchemist,"January 1, 1988",197,Medium
+27,William Golding,Lord of the Flies,3.7,3044827.0,914671,9711,https://www.goodreads.com/book/show/7624.Lord_of_the_Flies,"September 17, 1954",182,Medium
+28,L.M. Montgomery,"Anne of Green Gables (Anne of Green Gables, #1)",4.32,1044489.0,912291,9596,https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables,"January 1, 1908",320,High
+29,William Shakespeare,Romeo and Juliet,3.74,2710270.0,897136,9606,https://www.goodreads.com/book/show/18135.Romeo_and_Juliet,"January 1, 1597",281,Medium
+30,Douglas Adams,"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",4.23,1926330.0,848337,8795,https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy,"October 12, 1979",216,High
+31,Cassandra Clare,"City of Bones (The Mortal Instruments, #1)",4.07,2086311.0,847942,8905,https://www.goodreads.com/book/show/256683.City_of_Bones,"March 27, 2007",485,High
+32,Kathryn Stockett,The Help,4.46,2902467.0,832071,8876,https://www.goodreads.com/book/show/4667024-the-help,"February 10, 2009",464,High
+33,Bram Stoker,Dracula,4.02,1366309.0,826531,8864,https://www.goodreads.com/book/show/17245.Dracula,"May 26, 1897",488,High
+34,E.B. White,Charlotte’s Web,4.2,1942326.0,806802,8685,https://www.goodreads.com/book/show/24178.Charlotte_s_Web,"October 15, 1952",184,High
+35,Orson Scott Card,"Ender’s Game (Ender's Saga, #1)",4.31,1424686.0,793618,8276,https://www.goodreads.com/book/show/375802.Ender_s_Game,"January 15, 1985",324,High
+36,John Steinbeck,Of Mice and Men,3.89,2680693.0,788419,8487,https://www.goodreads.com/book/show/890.Of_Mice_and_Men,"February 25, 1937",107,Medium
+37,Ray Bradbury,Fahrenheit 451,3.96,2604076.0,784220,8310,https://www.goodreads.com/book/show/13079982-fahrenheit-451,"October 19, 1953",194,Medium
+38,Aldous Huxley,Brave New World,3.99,1957752.0,778995,8342,https://www.goodreads.com/book/show/5129.Brave_New_World,"January 1, 1932",268,Medium
+39,J.D. Salinger,The Catcher in the Rye,3.8,3707321.0,765553,8223,https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye,"July 16, 1951",277,Medium
+40,Gabriel García Márquez,One Hundred Years of Solitude,4.12,1032155.0,741498,7787,https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude,"January 1, 1967",417,High
+41,Khaled Hosseini,A Thousand Splendid Suns,4.44,1626125.0,732197,7733,https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns,"May 1, 2007",372,High
+42,George Orwell,1984,4.2,4998157.0,712022,7603,https://www.goodreads.com/book/show/40961427-1984,"June 8, 1949",298,High
+43,Louisa May Alcott,"Little Women (Little Women, #1)",4.16,2336240.0,706961,7755,https://www.goodreads.com/book/show/1934.Little_Women,"September 30, 1868",449,High
+44,William Goldman,The Princess Bride,4.27,922310.0,706382,7514,https://www.goodreads.com/book/show/21787.The_Princess_Bride,"September 1, 1973",429,High
+45,S.E. Hinton,The Outsiders,4.14,1467730.0,703993,7539,https://www.goodreads.com/book/show/231804.The_Outsiders,"April 24, 1967",208,High
+46,Frances Hodgson Burnett,The Secret Garden,4.16,1230906.0,702884,7688,https://www.goodreads.com/book/show/2998.The_Secret_Garden,"August 1, 1911",331,High
+47,Audrey Niffenegger,The Time Traveler's Wife,4.0,1826028.0,700921,7339,https://www.goodreads.com/book/show/18619684-the-time-traveler-s-wife,"January 1, 2003",537,Medium
+48,George R.R. Martin,"A Game of Thrones (A Song of Ice and Fire, #1)",4.44,2614324.0,694299,7390,https://www.goodreads.com/book/show/13496.A_Game_of_Thrones,"August 6, 1996",835,High
+49,J.K. Rowling,"Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",4.47,10734115.0,649475,6927,https://www.goodreads.com/book/show/42844155-harry-potter-and-the-sorcerer-s-stone,"June 26, 1997",333,High
+50,J.K. Rowling,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",4.62,3910051.0,637851,6874,https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows,"July 21, 2007",759,High
+51,Madeleine L'Engle,"A Wrinkle in Time (Time Quintet, #1)",3.98,1241360.0,631464,6753,https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time,"January 1, 1962",218,Medium
+52,Homer,The Odyssey,3.82,1129923.0,622063,6792,https://www.goodreads.com/book/show/1381.The_Odyssey,"January 1, 701",541,Medium
+53,Mary Wollstonecraft Shelley,Frankenstein: The 1818 Text,3.88,1712175.0,616918,6788,https://www.goodreads.com/book/show/35031085-frankenstein,"January 1, 1818",260,Medium
+54,Khaled Hosseini,The Kite Runner,4.35,3311245.0,607387,6562,https://www.goodreads.com/book/show/77203.The_Kite_Runner,"May 29, 2003",371,High
+55,Lois Lowry,"The Giver (The Giver, #1)",4.12,2648876.0,598053,6462,https://www.goodreads.com/book/show/3636.The_Giver,"April 26, 1993",208,High
+56,Margaret Atwood,"The Handmaid’s Tale (The Handmaid's Tale, #1)",4.14,2204277.0,597233,6493,https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale,"January 1, 1985",311,High
+57,Maurice Sendak,Where the Wild Things Are,4.25,1031073.0,566962,6173,https://www.goodreads.com/book/show/19543.Where_the_Wild_Things_Are,"April 9, 1963",38,High
+58,J.K. Rowling,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",4.58,4513663.0,565905,6164,https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban,"July 8, 1999",435,High
+59,Alice Sebold,The Lovely Bones,3.86,2414587.0,564485,6085,https://www.goodreads.com/book/show/12232938-the-lovely-bones,"July 3, 2002",372,Medium
+60,Dr. Seuss,Green Eggs and Ham,4.31,811660.0,563754,6188,https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham,"August 12, 1960",64,High
+61,Mark Twain,The Adventures of Huckleberry Finn,3.83,1297722.0,561205,6182,https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn,"February 18, 1884",327,Medium
+62,Frank Herbert,"Dune (Dune, #1)",4.28,1508797.0,552041,5928,https://www.goodreads.com/book/show/44767458-dune,"June 1, 1965",658,High
+63,Yann Martel,Life of Pi,3.94,1691498.0,547160,5915,https://www.goodreads.com/book/show/4214.Life_of_Pi,"September 11, 2001",460,Medium
+64,Charles Dickens,A Tale of Two Cities,3.87,981162.0,538707,5907,https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities,"November 26, 1859",489,Medium
+65,Vladimir Nabokov,Lolita,3.88,893254.0,536296,5767,https://www.goodreads.com/book/show/7604.Lolita,"September 1, 1955",368,Medium
+66,Kurt Vonnegut Jr.,Slaughterhouse-Five,4.1,1419051.0,520441,5614,https://www.goodreads.com/book/show/4981.Slaughterhouse_Five,"March 31, 1969",275,High
+67,Sara Gruen,Water for Elephants,4.11,1661105.0,502358,5414,https://www.goodreads.com/book/show/43641.Water_for_Elephants,"May 22, 2006",368,High
+68,Sylvia Plath,The Bell Jar,4.06,1081676.0,490688,5322,https://www.goodreads.com/book/show/6514.The_Bell_Jar,"January 1, 1963",294,High
+69,Roald Dahl,Matilda,4.33,1026714.0,481205,5312,https://www.goodreads.com/book/show/39988.Matilda,"September 28, 1988",240,High
+70,Stephen        King,The Stand,4.35,795730.0,455729,4915,https://www.goodreads.com/book/show/149267.The_Stand,"October 3, 1978",1152,High
+71,Joseph Heller,Catch-22,3.99,857157.0,445502,4859,https://www.goodreads.com/book/show/168668.Catch_22,"November 10, 1961",453,Medium
+72,Stieg Larsson,"The Girl with the Dragon Tattoo (Millennium, #1)",4.17,3315208.0,439921,4875,https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo,"August 1, 2005",480,High
+73,Arthur Conan Doyle,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",4.3,314128.0,435991,4872,https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes,"October 14, 1892",389,High
+74,Ken Follett,"The Pillars of the Earth (Kingsbridge, #1)",4.34,793132.0,428814,4616,https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth,"October 1, 1989",976,High
+75,Daphne du Maurier,Rebecca,4.25,671866.0,423511,4708,https://www.goodreads.com/book/show/17899948-rebecca,"August 1, 1938",449,High
+76,Richard  Adams,"Watership Down (Watership Down, #1)",4.09,492565.0,416637,4553,https://www.goodreads.com/book/show/76620.Watership_Down,"November 1, 1972",478,High
+77,Charles Dickens,Great Expectations,3.8,839323.0,406448,4658,https://www.goodreads.com/book/show/2623.Great_Expectations,"January 1, 1861",544,Medium
+78,Diana Gabaldon,"Outlander (Outlander, #1)",4.26,1109735.0,399679,4283,https://www.goodreads.com/book/show/10964.Outlander,"June 1, 1991",850,High
+79,Alice Walker,The Color Purple,4.27,719507.0,399531,4501,https://www.goodreads.com/book/show/52892857-the-color-purple,"June 1, 1982",304,High
+80,Leo Tolstoy,Anna Karenina,4.1,884202.0,386533,4231,https://www.goodreads.com/book/show/15823480-anna-karenina,"January 1, 1878",964,High
+81,Ken Kesey,One Flew Over the Cuckoo’s Nest,4.2,755043.0,385660,4363,https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest,"February 1, 1962",325,High
+82,Jodi Picoult,My Sister’s Keeper,4.1,1250306.0,372823,4101,https://www.goodreads.com/book/show/10917.My_Sister_s_Keeper,"April 6, 2004",423,High
+83,J.R.R. Tolkien,"The Fellowship of the Ring (The Lord of the Rings, #1)",4.4,2952889.0,370761,4089,https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring,"July 29, 1954",432,High
+84,Fyodor Dostoevsky,The Brothers Karamazov,4.38,354207.0,363229,3993,https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov,"January 1, 1880",796,High
+85,Agatha Christie,And Then There Were None,4.28,1479611.0,355147,3897,https://www.goodreads.com/book/show/16299.And_Then_There_Were_None,"November 6, 1939",264,High
+86,Betty  Smith,A Tree Grows in Brooklyn,4.3,486037.0,346579,3808,https://www.goodreads.com/book/show/14891.A_Tree_Grows_in_Brooklyn,"August 18, 1943",496,High
+87,Anthony Burgess,A Clockwork Orange,4.0,740078.0,343943,3868,https://www.goodreads.com/book/show/41817486-a-clockwork-orange,"January 1, 1962",240,Medium
+88,Cormac McCarthy,The Road,3.99,965398.0,338274,3711,https://www.goodreads.com/book/show/6288.The_Road,"September 26, 2006",241,Medium
+89,Harper Lee,To Kill a Mockingbird,4.26,6510108.0,336330,3635,https://www.goodreads.com/book/show/2654.To_Kill_a_Mockingbird,"July 11, 1960",323,High
+90,Stephen        King,It,4.24,1192027.0,323713,3483,https://www.goodreads.com/book/show/830502.It,"September 15, 1986",1116,High
+91,Stephen        King,"The Shining (The Shining, #1)",4.28,1600545.0,321430,3545,https://www.goodreads.com/book/show/11588.The_Shining,"January 28, 1977",497,High
+92,Philip Pullman,"The Golden Compass (His Dark Materials, #1)",4.03,1572845.0,320554,3563,https://www.goodreads.com/book/show/119322.The_Golden_Compass,"July 1, 1995",399,High
+93,Richelle Mead,"Vampire Academy (Vampire Academy, #1)",4.11,665011.0,314333,3377,https://www.goodreads.com/book/show/345627.Vampire_Academy,"August 16, 2007",332,High
+94,Hermann Hesse,Siddhartha,4.07,819584.0,313533,3491,https://www.goodreads.com/book/show/52036.Siddhartha,"October 1, 1922",152,High
+95,Edgar Allan Poe,The Complete Stories and Poems,4.4,285981.0,308312,3481,https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems,"November 1, 1849",821,High
+96,Frank McCourt,"Angela’s Ashes (Frank McCourt, #1)",4.15,643810.0,306736,3425,https://www.goodreads.com/book/show/252577.Angela_s_Ashes,"September 5, 1996",452,High
+97,Anne Rice,"Interview with the Vampire (The Vampire Chronicles, #1)",4.02,620460.0,304198,3395,https://www.goodreads.com/book/show/43763.Interview_with_the_Vampire,"April 12, 1976",346,High
+98,Miguel de Cervantes Saavedra,Don Quixote,3.9,287698.0,300558,3405,https://www.goodreads.com/book/show/3836.Don_Quixote,"January 1, 1605",1023,Medium
+99,Ernest Hemingway,The Old Man and the Sea,3.81,1226062.0,297572,3409,https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea,"September 1, 1952",96,Medium
+100,Barbara Kingsolver,The Poisonwood Bible,4.1,766734.0,291742,3206,https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible,"September 24, 1998",546,High
