@@ -1,21 +1,28 @@
-Designing and Developing a Data Acquisition and Preprocessing Pipeline.
+Goodreads Book Data Project
+What's This About?
+This project is about grabbing and cleaning up book data from Goodreads, specifically from their "Best 100 Books Ever" list. Goodreads is a cool site where book lovers can find and review books, and Amazon owns it. We're diving into this list to see what we can learn!
 
-Data Acquistion: refers to the process of collecting, recording, and digitizing information from various sources such as sensors, instruments, or other devices. It's a fundamental step in many scientific, industrial, and engineering applications where data is needed for analysis, monitoring, and control.
+Getting the Data
+First up, we need to get our hands on the data. This means collecting info from Goodreads, like book titles, authors, and ratings. Think of it like gathering all the ingredients before you start cooking.
 
-Preprocessing Pipleline: refers to a series of data preprocessing steps applied to raw data before it is used for analysis or modeling
+Cleaning Things Up
+Once we've got the data, we need to tidy it up. This is like making sure all your ingredients are prepped and ready to go. We clean and organize the data so it's easy to work with later.
 
-For my project focusing on data acquisition and preprocessing, I've opted to explore Goodreads, a website renowned as an American social cataloging platform. Operating as a subsidiary of Amazon, Goodreads enables users to delve into its extensive database encompassing books, annotations, quotes, and reviews. the specific page for this was this "Best 100 Books ever of all times " https://www.goodreads.com/list/show/1.Best_Books_Ever The features extracted are as follows:
+What We’re Looking At
+Here’s what we’re pulling from the list:
 
-Number (position on the list)
-Author Name
-Book Title
-Average Rating
-Ratings
-Score
-Votes
-Rating Category
-Publishing Date
-Pages (no of pages per book)
-Rating per Vote Ratio
-Score per Rating
-Publishing Year
+Number: Where the book ranks on the list
+Author Name: Who wrote the book
+Book Title: The name of the book
+Average Rating: How people rate the book on average
+Ratings: How many people rated it
+Score: The book's score on the list
+Votes: How many votes it got
+Rating Category: Is it a low, medium, or high rating?
+Publishing Date: When the book first came out
+Pages: How many pages it has
+Rating per Vote Ratio: How ratings compare to votes
+Score per Rating: Score divided by ratings
+Publishing Year: The year it was published
+Why Do This?
+By looking at all this data, we can get some cool insights into what makes these books so popular. Whether you're a bookworm, a data geek, or just curious, there's something interesting to find!
